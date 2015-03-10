@@ -1,2 +1,2 @@
-* 取消 Fn + Ctrl = Capslock
-* 增加 Fn + ` = Insert
+- [ ] 取消 Fn + Ctrl = Capslock
+- [ ] 增加 Fn + ` = Insert
