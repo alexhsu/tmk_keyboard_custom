@@ -27,6 +27,8 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define PRODUCT         GH60
 #define DESCRIPTION     t.m.k. keyboard firmware for GH60
 
+#define GH60_REV_CHN 1
+
 /* key matrix size */
 #define MATRIX_ROWS 5
 #define MATRIX_COLS 14
